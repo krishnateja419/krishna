@@ -2,3 +2,6 @@ hi im teja
 my address is augusta
 136 old winthrop road
 maine
+sudo sed -i '/JMX_JVM_OPTS="-Dcom.sun.management.jmxremote.port -Dcom.sun.management.jmxremote.port=9875 -Dcom.sun.management.jmxremote.local.only=true -Djava.rmi.server.hostname=localhost -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.password.file=/etc/collectd_auth_file"/d' /opt/aem/crx-quickstart/bin/start-env
+sh: -c: line 0: unexpected EOF while looking for matching `"'
+sh: -c: line 1: syntax error: unexpected end of file
