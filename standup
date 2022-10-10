@@ -1,0 +1,3 @@
+Hi Team,
+
+I fixed the errors for the logic to  implement  delete method script line to delete the default JMX_OPTS env variable and now it's  append new value SSL and auth true. Spined up EC2 instance and navigated to the path and the script is now have value s as true. Need to implement same logic in publisher sites and  also checking to find a way to validate the JVM that set to be true .
