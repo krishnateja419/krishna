@@ -5,3 +5,22 @@ maine
 sudo sed -i '/JMX_JVM_OPTS="-Dcom.sun.management.jmxremote.port -Dcom.sun.management.jmxremote.port=9875 -Dcom.sun.management.jmxremote.local.only=true -Djava.rmi.server.hostname=localhost -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.password.file=/etc/collectd_auth_file"/d' /opt/aem/crx-quickstart/bin/start-env
 sh: -c: line 0: unexpected EOF while looking for matching `"'
 sh: -c: line 1: syntax error: unexpected end of file
+
+Join Zoom Meeting 
+
+Phone one-tap: 	US: +12063379723,,7845322544# or +13126266799,,7845322544# 
+
+Meeting URL: 	https://usaa.zoom.us/j/7845322544?pwd=RTExbVQ0eW9LSHFDSUpJc0M4dlA5UT09 
+
+Meeting ID: 	784 532 2544
+Password:	313178
+Join by Telephone 
+For higher quality, dial a number based on your current location. 
+Dial: 	
+US: +1 206 337 9723 or +1 312 626 6799 
+Mexico: +52 554 161 4288 or +52 556 826 9800 
+United Kingdom: +44 131 460 1196 or +44 203 481 5237 
+Germany: +49 695 050 2596 or +49 69 7104 9922 
+Luxembourg: +352 2786 1188 or +352 2786 4277 
+Meeting ID: 	784 532 2544
+
