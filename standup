@@ -8,3 +8,12 @@ Meeting URL: 	https://usaa.zoom.us/j/9199246709?pwd=blZObXdqeG1ONXJnMmdFMlc2TTNp
 
 Meeting ID: 	919 924 6709
 Password:	464327
+
+
+Analysied the existing process of how ACT is integrated to AEM libraries for JMX to monitor
+2)	Identified the code of sample java function to trigger the domain mock test.
+3)	Identified the process to implement the validation env.
+1)	Need to add JMX funtion inside https://github.com/Netcentric/accesscontroltool/blob/develop/accesscontroltool-bundle/src/main/java/biz/netcentric/cq/tools/actool/jmx/AceServiceMBeanImpl.java
+2)	Clone this public t internal project and customize it 
+3)	Add the JMX function here to perform the action
+4)	Install add dependency maven inside AEM component library
