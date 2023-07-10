@@ -20,3 +20,7 @@ Analysied the existing process of how ACT is integrated to AEM libraries for JMX
 
 Hi cam,
 Regarding the new jmx panel. I was trying to customise the ACTool by removing all features of ACT like access control to only get the panel and new functions to implement and then generate a package with own Gitlab project and push to artifactory. Then we can install this package inside aem component library like how we did for ACT. Please correct me my understanding is correct or you are expecting to build code inside AEM component library to connect exist JMX and then on top of that build new set of functions?
+
+1) Understand the role based feature and analyse the codebase to identify the specific components and modules, access control checkinside ACT. 
+2)Tried of creating gradle dependencies instead of maven Act to install all dependencies (only picked up the JMX feature inside ACT
+3) tried created the jar package by compiling the code of removed role based permission of ACT in local to install inside AEM service.
